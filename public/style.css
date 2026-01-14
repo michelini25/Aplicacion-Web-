@@ -1,0 +1,27 @@
+body {
+  background-color: #fce4ec;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  background-color: #f4b1bb;
+  border-radius: 20px;
+}
+
+h1 {
+  color: #7a1f3d;
+  font-weight: bold;
+}
+
+table thead {
+  background-color: #ea899a;
+}
+
+.btn-danger {
+  background-color: #ea899a;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #d76b82;
+}
